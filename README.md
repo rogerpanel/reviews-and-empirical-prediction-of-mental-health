@@ -1,4 +1,4 @@
-# Machine learning for mental-health prediction: a systematic appraisal and an empirical demonstration
+# Machine learning Models for mental-health prediction: a systematic appraisal and an empirical demonstration
 
 **Status: experiments complete on the real Tier-1 cohorts and manuscripts drafted.** E1-E5 run on
 DEPRESJON, PSYKOSE, HYPERAKTIV and OBF-Psychiatric (10 seeds, 1,000 subject-level bootstrap
