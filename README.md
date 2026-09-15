@@ -341,17 +341,6 @@ _Last refreshed by `scripts/update_readme.py` from `results/real`._
 | E6 | `149e52ccc3` (dirty) | `10dbbe3fc2b60a12` | [0, 1, 2, 3, 4] | 500 | 2026-09-15T10:05:59 | no |
 <!-- RESULTS:END -->
 
-## Roadmap
-
-1. **Now.** Register Paper A on PROSPERO (`paper/review/prospero_registration.md`); submit the
-   DAIC-WOZ EULA; download the Simula archives and OBF-Psychiatric (`data/README.md`); optionally
-   pre-register E1-E3 on OSF.
-2. **Weeks 1-2.** Place data in `data/raw/`, run `verify-data`, `prepare`, E1-E3 with default
-   seeds; re-key the TRIPOD+AI sheet to the official 27-item numbering; run the four searches.
-3. **Weeks 3-8.** Screening/extraction for A. Add sex-stratified (fairness) analysis and the
-   OBF-Psychiatric multiclass arm to B.
-4. **Weeks 8-12.** Freeze results (tag a release, cite the SHA in both manuscripts).
-5. **Weeks 12-16.** Draft both manuscripts from the auto-generated tables; cross-cite.
 
 ## Reproducing the figures elsewhere
 
@@ -371,6 +360,6 @@ added when the release is archived). Data: cite the source publications listed i
 
 ## Release checklist (maintainer)
 
-1. Connect the repository to Zenodo (zenodo.org -> GitHub -> toggle `rogerpanel/cv`).
+1. Connect the repository to Zenodo will be done (zenodo.org -> GitHub -> toggle `rogerpanel/reviews-and-empirical-prediction-of-mental-health`).
 2. On GitHub, Releases -> Draft a new release -> tag `v1.0.0-submission` on the submission commit.
-3. Copy the minted DOI into the Code availability sentence of the manuscript and into this section.
+
