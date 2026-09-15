@@ -360,6 +360,6 @@ added when the release is archived). Data: cite the source publications listed i
 
 ## Release checklist (maintainer)
 
-1. Connect the repository to Zenodo will be done (zenodo.org -> GitHub -> toggle `rogerpanel/reviews-and-empirical-prediction-of-mental-health`).
+1. Connection of the repository to Zenodo is done - https://doi.org/10.5281/zenodo.22772533 (zenodo.org -> GitHub -> toggle `rogerpanel/reviews-and-empirical-prediction-of-mental-health`).
 2. On GitHub, Releases -> Draft a new release -> tag `v1.0.0-submission` on the submission commit.
 
